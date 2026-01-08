@@ -67,7 +67,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Your LinkedIn URL Here]
-- 📧 **Email:** [Your Email Here]
+- 💼 **LinkedIn:** www.linkedin.com/in/ramesh-babu-m-v-bb1867320
+- 📧 **Email:** rameshbabu10743@gmail.com
 
 ⭐ *If you like my work, consider starring my repositories!*
